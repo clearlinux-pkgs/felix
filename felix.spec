@@ -4,7 +4,7 @@
 #
 Name     : felix
 Version  : 1.8.0
-Release  : 1
+Release  : 2
 URL      : http://archive.apache.org/dist/felix/felix-1.8.0.tar.gz
 Source0  : http://archive.apache.org/dist/felix/felix-1.8.0.tar.gz
 Summary  : No detailed summary available
